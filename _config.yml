@@ -1,5 +1,5 @@
 ---
-title: Lloydstubber
+title: Lloyd Stubber Photography
 timezone: Australia/Melbourne
 collections:
   posts:
@@ -23,7 +23,6 @@ exclude:
 - ".git"
 - package.json
 - package-lock.json
-facebook_url: 
 insta_url: 
 whitelist:
 - jekyll-redirect-from
